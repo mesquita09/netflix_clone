@@ -1,8 +1,9 @@
-!-- PROJECT LOGO AND TITLE-->
+<!-- PROJECT LOGO AND TITLE-->
 <img
   src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
   alt="Netflix"
   width="300px"
+  align="center"
 />
 <h1 align="center">
     <br>
