@@ -42,3 +42,6 @@
 
 - HTML
 - CSS
+- Jquery
+- Media Queries
+- Responsiveness
